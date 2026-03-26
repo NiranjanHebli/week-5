@@ -14,6 +14,6 @@ This repo contains assignments given in week-5. The assignments are written in P
 
 [Day 25 - AM - Assignment](day25/eda/README.md)
 
-[Day 25 - PM - Assignment](day25)
+[Day 25 - PM - Assignment](day25/types_of_ml/README.md)
 
 
