@@ -1,4 +1,4 @@
-# Week 5 - Assignments
+# Week - 5 - Assignments
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](#badges)
 [![Pandas](https://img.shields.io/badge/pandas-1.3.5-orange.svg)](#badges)

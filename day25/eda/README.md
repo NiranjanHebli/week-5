@@ -19,12 +19,18 @@ This task deals with analysis of the Titanic Dataset which focuses on understand
 
 ## Part B - Stretch Problem
 
+This task delves deeper into the Pandas library, utilizing advanced filtering, grouping, and column manipulation techniques to extract specific subsets of data and create new columns.
+
 ## Key Learnings
+- Filtering with multiple conditions helps isolate meaningful subsets of data.
+- Creating new columns enables feature engineering from existing attributes.
+- Sorting numerical columns reveals highest, lowest, or ordered patterns in data.
+- Grouping combined with mean helps compare averages across categories.
 
 
 ## File:-
 
-## []() 
+###  [`titanic_analysis.ipynb`](./titanic_analysis.ipynb) (Scroll Down)
 
 
 ## Part C - Interview Ready
