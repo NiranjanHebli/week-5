@@ -18,3 +18,6 @@ This repo contains assignments given in week-5. The assignments are written in P
 
 [`Day 26 - Assignment`](day26/pharmalink_case_study.md)
 
+[`Day 27 - Assignment`](day27/zeptofresh_case_study.md)
+
+
